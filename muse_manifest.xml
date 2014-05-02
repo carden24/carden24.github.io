@@ -1,0 +1,50 @@
+<manifest alg="2" build="5" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="4023935739"/>
+    <file name="master_a-master.css" crc="3966603259" ref="research:teaching:programming:index:odds-and-ends"/>
+    <file name="research.css" crc="4095268269" ref="research"/>
+    <file name="teaching.css" crc="3980867" ref="teaching"/>
+    <file name="programming.css" crc="4245264593" ref="programming"/>
+    <file name="index.css" crc="3858249662" ref="index"/>
+    <file name="odds-and-ends.css" crc="4223175111" ref="odds-and-ends"/>
+  </folder>
+  <folder name="assets">
+    <file name="1.-measuring-microbial-diversity.pptx" crc="505016997" mt="1398982441000"/>
+    <file name="2.-tools-for-microbial-community-analysis-.pptx" crc="29176867" mt="1301085401000"/>
+    <file name="3.-alignments-and-phylogenetic-trees.pptx" crc="492111106" mt="1301085419000"/>
+    <file name="4.ribosomal-rna-databases.pptx" crc="341694501" mt="1301290322000"/>
+    <file name="5.rdp-pipeline-pyrosequencing-pipeline.pptx" crc="3948247095" mt="1304293714000"/>
+    <file name="6.blast.pptx" crc="478946307" mt="1301544188000"/>
+    <file name="7.functional-gene-repository-and-pipeline.pptx" crc="134856300" mt="1301497610000"/>
+    <file name="8.-databases.pptx" crc="4291082565" mt="1301544254000"/>
+    <file name="erick-cárdenas-cv.pdf" crc="88192658" mt="1396651820000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="research:teaching:programming:odds-and-ends:index"/>
+    <file name="museutils.js" crc="4291592202" ref="research:teaching:programming:odds-and-ends:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="research:teaching:programming:odds-and-ends:index"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="research:teaching:programming:odds-and-ends:index"/>
+    <file name="pie.js" crc="3827607177" ref="research:teaching:programming"/>
+    <file name="webpro.js" crc="3903299128" ref="research"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="research"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="research"/>
+    <file name="touchswipe.js" crc="4156838003" ref="research"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="research:teaching:programming:odds-and-ends:index"/>
+  </folder>
+  <folder name="images">
+    <file name="img_6780.jpg" crc="3947727705" ref="research:teaching:programming:odds-and-ends:index"/>
+    <file name="msuphd.jpg" crc="3842037801" ref="research"/>
+    <file name="blank.gif" crc="4208392903" ref="research"/>
+    <file name="nmds as 2-1-11.jpg" crc="194353338" ref="research"/>
+    <file name="fig2v11014.png" crc="3818442913" ref="research"/>
+    <file name="loading.gif" crc="3815509949" ref="research"/>
+    <file name="follow.png" crc="138972462" ref="odds-and-ends"/>
+    <file name="follow2.png" crc="4071275836" ref="odds-and-ends"/>
+    <file name="img_9504-2586x306.jpg" crc="4070788567" ref="index"/>
+  </folder>
+  <file name="research.html" crc="3990198681" mt="1399052482586" redirect="true"/>
+  <file name="teaching.html" crc="57849021" mt="1399052355695" redirect="true"/>
+  <file name="programming.html" crc="4124032596" mt="1399051414313" redirect="true"/>
+  <file name="odds-and-ends.html" crc="4154100251" mt="1399051416123" redirect="true"/>
+  <file name="index.html" crc="4118987968" mt="1399051450833" redirect="true"/>
+</manifest>

@@ -1,0 +1,330 @@
+.html
+{
+	background: #7F7F7F url("../images/img_6780.jpg") no-repeat center center scroll;
+	background-size: cover !important;
+}
+
+#page
+{
+	z-index: 1;
+	width: 920px;
+	min-height: 423px;
+	background-image: none;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: -1px;
+	padding: 30px 20px 147px;
+}
+
+#menuu230
+{
+	z-index: 2;
+	width: 920px;
+}
+
+#u1005
+{
+	width: 182px;
+	min-height: 68px;
+	margin-right: -10000px;
+}
+
+#u1006
+{
+	width: 182px;
+	padding-bottom: 46px;
+}
+
+#u1006:hover
+{
+	margin: 0px;
+}
+
+#u1006:active
+{
+	margin: 0px;
+}
+
+#u1008-4
+{
+	width: 180px;
+	min-height: 22px;
+	margin-right: -10000px;
+	top: 23px;
+	left: 1px;
+}
+
+#u1006:hover #u1008-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1006:active #u1008-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u948
+{
+	width: 182px;
+	min-height: 68px;
+	margin-right: -10000px;
+	left: 184px;
+}
+
+#u949
+{
+	width: 182px;
+	padding-bottom: 46px;
+}
+
+#u1006.MuseMenuActive,#u949:hover
+{
+	margin: 0px;
+}
+
+#u949:active
+{
+	margin: 0px;
+}
+
+#u952-4
+{
+	width: 180px;
+	min-height: 22px;
+	margin-right: -10000px;
+	top: 23px;
+	left: 1px;
+}
+
+#u1006.MuseMenuActive #u1008-4,#u949:hover #u952-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u949:active #u952-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u964
+{
+	width: 182px;
+	min-height: 68px;
+	margin-right: -10000px;
+	left: 368px;
+}
+
+#u965
+{
+	width: 182px;
+	padding-bottom: 46px;
+}
+
+#u949.MuseMenuActive,#u965:hover
+{
+	margin: 0px;
+}
+
+#u965:active
+{
+	margin: 0px;
+}
+
+#u967-4
+{
+	width: 180px;
+	min-height: 22px;
+	margin-right: -10000px;
+	top: 23px;
+	left: 1px;
+}
+
+#u949.MuseMenuActive #u952-4,#u965:hover #u967-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u965:active #u967-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u932
+{
+	width: 183px;
+	min-height: 68px;
+	margin-right: -10000px;
+	left: 552px;
+}
+
+#u933
+{
+	width: 183px;
+	padding-bottom: 46px;
+}
+
+#u965.MuseMenuActive,#u933:hover
+{
+	margin: 0px;
+}
+
+#u933:active
+{
+	margin: 0px;
+}
+
+#u936-4
+{
+	width: 181px;
+	min-height: 22px;
+	margin-right: -10000px;
+	top: 23px;
+	left: 1px;
+}
+
+#u965.MuseMenuActive #u967-4,#u933:hover #u936-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u933:active #u936-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u916
+{
+	width: 183px;
+	min-height: 68px;
+	margin-right: -10000px;
+	left: 737px;
+}
+
+#u917
+{
+	width: 183px;
+	padding-bottom: 46px;
+}
+
+#u933.MuseMenuActive,#u917:hover
+{
+	margin: 0px;
+}
+
+#u917:active
+{
+	margin: 0px;
+}
+
+#u917.MuseMenuActive
+{
+	margin: 0px;
+}
+
+#u920-4
+{
+	width: 181px;
+	min-height: 22px;
+	margin-right: -10000px;
+	top: 23px;
+	left: 1px;
+}
+
+#u933.MuseMenuActive #u936-4,#u917:hover #u920-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u917:active #u920-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u917.MuseMenuActive #u920-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#pu425-4
+{
+	width: 0.01px;
+	margin-top: 23px;
+	position: relative;
+}
+
+#u425-4
+{
+	z-index: 33;
+	width: 440px;
+	min-height: 332px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u868
+{
+	z-index: 37;
+	width: 180px;
+	height: 40px;
+	position: relative;
+	margin-right: -10000px;
+	left: 240px;
+	background: transparent url("../images/follow.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u868:hover
+{
+	margin: 0px -10000px 0px 0px;
+	background: transparent url("../images/follow2.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+body
+{
+	padding-bottom: 74px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
