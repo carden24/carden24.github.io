@@ -8,7 +8,7 @@
 {
 	z-index: 1;
 	width: 920px;
-	min-height: 423px;
+	min-height: 468px;
 	background-image: none;
 	border-width: 1px;
 	border-style: solid;
@@ -17,7 +17,7 @@
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: -1px;
-	padding: 30px 20px 147px;
+	padding: 30px 20px 102px;
 }
 
 #menuu230
@@ -294,9 +294,12 @@
 {
 	z-index: 33;
 	width: 440px;
-	min-height: 332px;
+	min-height: 377px;
+	background-color: #FFFFFF;
+	background-color: rgba(255, 255, 255, 0.8);
 	position: relative;
 	margin-right: -10000px;
+	-pie-background: rgba(255, 255, 255, 0.8);
 }
 
 #u868

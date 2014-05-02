@@ -55,6 +55,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://github.io/assets/best-practices-for-scientific-computing.pdf</loc>
+    <lastmod>2014-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://github.io/assets/ten-simple-rules-for-reproducible-computational-research.pdf</loc>
+    <lastmod>2014-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://github.io/assets/ten-simple-rules-for-the-open-development-of-scientific-software.pdf</loc>
+    <lastmod>2014-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://github.io/images/img_6780.jpg</loc>
     <lastmod>2014-05-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -152,6 +170,48 @@
   </url>
   <url>
     <loc>http://github.io/images/picture32.jpg</loc>
+    <lastmod>2014-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://github.io/images/rlogo.jpg</loc>
+    <lastmod>2014-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://github.io/images/rstudio2x-u1503.png</loc>
+    <lastmod>2014-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://github.io/images/fdpxq.jpg</loc>
+    <lastmod>2014-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://github.io/images/logo-green-orange-u1523.png</loc>
+    <lastmod>2014-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://github.io/images/g115.png</loc>
+    <lastmod>2014-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://github.io/images/blocks_green_80px.gif</loc>
+    <lastmod>2014-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://github.io/images/biostar2logo-u1576.jpg</loc>
     <lastmod>2014-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

@@ -882,9 +882,23 @@
 #u1203:hover
 {
 	border-color: #999999;
+	background-color: #FFFFFF;
+	background-color: rgba(255, 255, 255, 1);
 	width: 264px;
 	min-height: 0px;
 	margin: 0px;
+	-pie-background: rgba(255, 255, 255, 1);
+}
+
+#u1203.PamphletThumbSelected
+{
+	border-color: #999999;
+	background-color: #FFFFFF;
+	background-color: rgba(255, 255, 255, 0.75);
+	width: 264px;
+	min-height: 0px;
+	margin: 0px;
+	-pie-background: rgba(255, 255, 255, 0.75);
 }
 
 #u1204-4
@@ -946,12 +960,26 @@
 	left: 2px;
 }
 
-#u1203.PamphletThumbSelected,#u1201:hover
+#u1201:hover
 {
 	border-color: #999999;
+	background-color: #FFFFFF;
+	background-color: rgba(255, 255, 255, 1);
 	width: 264px;
 	min-height: 0px;
 	margin: 0px;
+	-pie-background: rgba(255, 255, 255, 1);
+}
+
+#u1201.PamphletThumbSelected
+{
+	border-color: #999999;
+	background-color: #FFFFFF;
+	background-color: rgba(255, 255, 255, 0.75);
+	width: 264px;
+	min-height: 0px;
+	margin: 0px;
+	-pie-background: rgba(255, 255, 255, 0.75);
 }
 
 #u1202-4
@@ -1014,12 +1042,26 @@
 	left: 2px;
 }
 
-#u1201.PamphletThumbSelected,#u1199:hover
+#u1199:hover
 {
 	border-color: #999999;
+	background-color: #FFFFFF;
+	background-color: rgba(255, 255, 255, 1);
 	width: 264px;
 	min-height: 0px;
 	margin: 0px;
+	-pie-background: rgba(255, 255, 255, 1);
+}
+
+#u1199.PamphletThumbSelected
+{
+	border-color: #999999;
+	background-color: #FFFFFF;
+	background-color: rgba(255, 255, 255, 0.75);
+	width: 264px;
+	min-height: 0px;
+	margin: 0px;
+	-pie-background: rgba(255, 255, 255, 0.75);
 }
 
 #u1200-4
@@ -1076,9 +1118,23 @@
 #u1261:hover
 {
 	border-color: #999999;
+	background-color: #FFFFFF;
+	background-color: rgba(255, 255, 255, 1);
 	width: 266px;
 	min-height: 0px;
 	margin: 0px;
+	-pie-background: rgba(255, 255, 255, 1);
+}
+
+#u1261.PamphletThumbSelected
+{
+	border-color: #999999;
+	background-color: #FFFFFF;
+	background-color: rgba(255, 255, 255, 0.75);
+	width: 266px;
+	min-height: 0px;
+	margin: 0px;
+	-pie-background: rgba(255, 255, 255, 0.75);
 }
 
 #u1271-4
@@ -1115,12 +1171,26 @@
 	left: 2px;
 }
 
-#u1261.PamphletThumbSelected,#u1264:hover
+#u1264:hover
 {
 	border-color: #999999;
+	background-color: #FFFFFF;
+	background-color: rgba(255, 255, 255, 1);
 	width: 266px;
 	min-height: 0px;
 	margin: 0px;
+	-pie-background: rgba(255, 255, 255, 1);
+}
+
+#u1264.PamphletThumbSelected
+{
+	border-color: #999999;
+	background-color: #FFFFFF;
+	background-color: rgba(255, 255, 255, 0.75);
+	width: 266px;
+	min-height: 0px;
+	margin: 0px;
+	-pie-background: rgba(255, 255, 255, 0.75);
 }
 
 #u1272-3
@@ -1180,20 +1250,26 @@
 	left: 2px;
 }
 
-#u1264.PamphletThumbSelected,#u1266:hover
+#u1266:hover
 {
 	border-color: #999999;
+	background-color: #FFFFFF;
+	background-color: rgba(255, 255, 255, 1);
 	width: 266px;
 	min-height: 0px;
 	margin: 0px;
+	-pie-background: rgba(255, 255, 255, 1);
 }
 
 #u1266.PamphletThumbSelected
 {
 	border-color: #999999;
+	background-color: #FFFFFF;
+	background-color: rgba(255, 255, 255, 0.75);
 	width: 266px;
 	min-height: 0px;
 	margin: 0px;
+	-pie-background: rgba(255, 255, 255, 0.75);
 }
 
 #u1278-4
@@ -1256,12 +1332,26 @@
 	left: 4px;
 }
 
-#u1199.PamphletThumbSelected,#u1268:hover
+#u1268:hover
 {
 	border-color: #999999;
+	background-color: #FFFFFF;
+	background-color: rgba(255, 255, 255, 1);
 	width: 264px;
 	min-height: 0px;
 	margin: 0px;
+	-pie-background: rgba(255, 255, 255, 1);
+}
+
+#u1268.PamphletThumbSelected
+{
+	border-color: #999999;
+	background-color: #FFFFFF;
+	background-color: rgba(255, 255, 255, 0.75);
+	width: 264px;
+	min-height: 0px;
+	margin: 0px;
+	-pie-background: rgba(255, 255, 255, 0.75);
 }
 
 #u1277-4
@@ -1324,20 +1414,26 @@
 	left: 4px;
 }
 
-#u1268.PamphletThumbSelected,#u1270:hover
+#u1270:hover
 {
 	border-color: #999999;
+	background-color: #FFFFFF;
+	background-color: rgba(255, 255, 255, 1);
 	width: 264px;
 	min-height: 0px;
 	margin: 0px;
+	-pie-background: rgba(255, 255, 255, 1);
 }
 
 #u1270.PamphletThumbSelected
 {
 	border-color: #999999;
+	background-color: #FFFFFF;
+	background-color: rgba(255, 255, 255, 0.75);
 	width: 264px;
 	min-height: 0px;
 	margin: 0px;
+	-pie-background: rgba(255, 255, 255, 0.75);
 }
 
 #u1276-4

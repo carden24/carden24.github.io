@@ -2,11 +2,11 @@
   <folder name="css">
     <file name="site_global.css" crc="4023935739"/>
     <file name="master_a-master.css" crc="3966603259" ref="research:teaching:programming:index:odds-and-ends"/>
-    <file name="research.css" crc="4279675242" ref="research"/>
-    <file name="teaching.css" crc="430309794" ref="teaching"/>
-    <file name="programming.css" crc="4127712278" ref="programming"/>
-    <file name="index.css" crc="4009118585" ref="index"/>
-    <file name="odds-and-ends.css" crc="4038522112" ref="odds-and-ends"/>
+    <file name="research.css" crc="4026814457" ref="research"/>
+    <file name="teaching.css" crc="3776765171" ref="teaching"/>
+    <file name="programming.css" crc="459688718" ref="programming"/>
+    <file name="index.css" crc="198519942" ref="index"/>
+    <file name="odds-and-ends.css" crc="390135428" ref="odds-and-ends"/>
   </folder>
   <folder name="assets">
     <file name="1.-measuring-microbial-diversity.pptx" crc="505016997" mt="1398982441000"/>
@@ -18,13 +18,16 @@
     <file name="7.functional-gene-repository-and-pipeline.pptx" crc="134856300" mt="1301497610000"/>
     <file name="8.-databases.pptx" crc="4291082565" mt="1301544254000"/>
     <file name="erick-cárdenas-cv.pdf" crc="88192658" mt="1396651820000"/>
+    <file name="best-practices-for-scientific-computing.pdf" crc="3851409360" mt="1399073365000"/>
+    <file name="ten-simple-rules-for-reproducible-computational-research.pdf" crc="4209000926" mt="1399073372000"/>
+    <file name="ten-simple-rules-for-the-open-development-of-scientific-software.pdf" crc="233431919" mt="1399073376000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="research:teaching:programming:odds-and-ends:index"/>
     <file name="museutils.js" crc="4291592202" ref="research:teaching:programming:odds-and-ends:index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="research:teaching:programming:odds-and-ends:index"/>
     <file name="jquery.musemenu.js" crc="3788803530" ref="research:teaching:programming:odds-and-ends:index"/>
-    <file name="pie.js" crc="3827607177" ref="research:teaching:programming"/>
+    <file name="pie.js" crc="3827607177" ref="teaching:odds-and-ends"/>
     <file name="webpro.js" crc="3903299128" ref="research:teaching"/>
     <file name="musewpslideshow.js" crc="138381373" ref="research:teaching"/>
     <file name="jquery.museoverlay.js" crc="4250894771" ref="research:teaching"/>
@@ -49,10 +52,17 @@
     <file name="200px-us-nlm-ncbi-logosvg.jpg" crc="3854997367" ref="teaching"/>
     <file name="picture2.jpg" crc="4259010900" ref="teaching"/>
     <file name="picture32.jpg" crc="3841252747" ref="teaching"/>
+    <file name="rlogo.jpg" crc="424669431" ref="programming"/>
+    <file name="rstudio2x-u1503.png" crc="3975598799" ref="programming"/>
+    <file name="fdpxq.jpg" crc="4250028646" ref="programming"/>
+    <file name="logo-green-orange-u1523.png" crc="355041451" ref="programming"/>
+    <file name="g115.png" crc="4035251403" ref="programming"/>
+    <file name="blocks_green_80px.gif" crc="298693392" ref="programming"/>
+    <file name="biostar2logo-u1576.jpg" crc="3875713780" ref="programming"/>
   </folder>
-  <file name="research.html" crc="3990198681" mt="1399056625424" redirect="true"/>
-  <file name="teaching.html" crc="4129472344" mt="1399067125128" redirect="true"/>
-  <file name="programming.html" crc="4124032596" mt="1399056625429" redirect="true"/>
-  <file name="odds-and-ends.html" crc="4154100251" mt="1399056625432" redirect="true"/>
-  <file name="index.html" crc="4118987968" mt="1399056625434" redirect="true"/>
+  <file name="research.html" crc="4060023024" mt="1399071151009" redirect="true"/>
+  <file name="teaching.html" crc="3957073131" mt="1399071151016" redirect="true"/>
+  <file name="programming.html" crc="4016783941" mt="1399074825933" redirect="true"/>
+  <file name="odds-and-ends.html" crc="4258646769" mt="1399070922054" redirect="true"/>
+  <file name="index.html" crc="476576648" mt="1399071042415" redirect="true"/>
 </manifest>
