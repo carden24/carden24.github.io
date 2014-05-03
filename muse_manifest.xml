@@ -1,12 +1,12 @@
 <manifest alg="2" build="5" opt="false" iceEnabled="true">
   <folder name="css">
-    <file name="site_global.css" crc="4023935739"/>
-    <file name="master_a-master.css" crc="3966603259" ref="research:teaching:programming:index:odds-and-ends"/>
-    <file name="research.css" crc="4026814457" ref="research"/>
-    <file name="teaching.css" crc="3776765171" ref="teaching"/>
+    <file name="site_global.css" crc="3983832653"/>
+    <file name="master_a-master.css" crc="535769800" ref="research:teaching:programming:index:odds-and-ends"/>
+    <file name="research.css" crc="3818045540" ref="research"/>
+    <file name="teaching.css" crc="4196569402" ref="teaching"/>
     <file name="programming.css" crc="459688718" ref="programming"/>
-    <file name="index.css" crc="198519942" ref="index"/>
-    <file name="odds-and-ends.css" crc="390135428" ref="odds-and-ends"/>
+    <file name="index.css" crc="328836094" ref="index"/>
+    <file name="odds-and-ends.css" crc="454103438" ref="odds-and-ends"/>
   </folder>
   <folder name="assets">
     <file name="1.-measuring-microbial-diversity.pptx" crc="505016997" mt="1398982441000"/>
@@ -60,9 +60,9 @@
     <file name="blocks_green_80px.gif" crc="298693392" ref="programming"/>
     <file name="biostar2logo-u1576.jpg" crc="3875713780" ref="programming"/>
   </folder>
-  <file name="research.html" crc="4060023024" mt="1399071151009" redirect="true"/>
-  <file name="teaching.html" crc="3957073131" mt="1399071151016" redirect="true"/>
-  <file name="programming.html" crc="4016783941" mt="1399074825933" redirect="true"/>
-  <file name="odds-and-ends.html" crc="4258646769" mt="1399070922054" redirect="true"/>
-  <file name="index.html" crc="476576648" mt="1399071042415" redirect="true"/>
+  <file name="research.html" crc="4175601530" mt="1399103176757" redirect="true"/>
+  <file name="teaching.html" crc="3957073131" mt="1399103176759" redirect="true"/>
+  <file name="programming.html" crc="4016783941" mt="1399103176761" redirect="true"/>
+  <file name="odds-and-ends.html" crc="4173445447" mt="1399110382946" redirect="true"/>
+  <file name="index.html" crc="476576648" mt="1399103176769" redirect="true"/>
 </manifest>

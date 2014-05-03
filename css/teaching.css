@@ -908,8 +908,8 @@
 	min-height: 20px;
 	background-color: transparent;
 	text-align: center;
-	line-height: 20px;
 	color: #000000;
+	line-height: 20px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -943,8 +943,8 @@
 {
 	color: #000000;
 	visibility: inherit;
-	line-height: 1.4;
 	text-align: center;
+	line-height: 1.4;
 }
 
 #u1201
@@ -989,8 +989,8 @@
 	min-height: 20px;
 	background-color: transparent;
 	text-align: center;
-	line-height: 20px;
 	color: #000000;
+	line-height: 20px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1072,8 +1072,8 @@
 	border-color: #DEDEDE;
 	background-color: transparent;
 	text-align: center;
-	line-height: 20px;
 	color: #000000;
+	line-height: 20px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1280,8 +1280,8 @@
 	border-color: #DEDEDE;
 	background-color: transparent;
 	text-align: center;
-	line-height: 20px;
 	color: #000000;
+	line-height: 20px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1362,8 +1362,8 @@
 	border-color: #DEDEDE;
 	background-color: transparent;
 	text-align: center;
-	line-height: 20px;
 	color: #000000;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1397,8 +1397,8 @@
 {
 	color: #000000;
 	visibility: inherit;
-	line-height: 1.4;
 	text-align: center;
+	line-height: 1.4;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
@@ -1444,8 +1444,8 @@
 	border-color: #DEDEDE;
 	background-color: transparent;
 	text-align: center;
-	line-height: 20px;
 	color: #000000;
+	line-height: 20px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1479,8 +1479,8 @@
 {
 	color: #6B6B6B;
 	visibility: inherit;
-	line-height: 1.4;
 	text-align: center;
+	line-height: 1.4;
 }
 
 .PamphletWidget .ThumbGroup .Thumb, .PamphletNextButton, .PamphletPrevButton, .PamphletCloseButton /* pamphlet2 */

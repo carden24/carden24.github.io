@@ -301,8 +301,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
 	filter: alpha(opacity=75);
 	text-align: justify;
-	line-height: 24px;
 	font-size: 20px;
+	line-height: 24px;
 	position: relative;
 	margin-right: -10000px;
 }

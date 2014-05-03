@@ -8,7 +8,7 @@
 {
 	z-index: 1;
 	width: 920px;
-	min-height: 468px;
+	min-height: 550px;
 	background-image: none;
 	border-width: 1px;
 	border-style: solid;
@@ -17,7 +17,7 @@
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: -1px;
-	padding: 30px 20px 102px;
+	padding: 30px 20px 20px;
 }
 
 #menuu230
@@ -283,18 +283,19 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#pu425-4
+#pu425-47
 {
 	width: 0.01px;
-	margin-top: 23px;
+	margin-left: 1px;
+	margin-top: 25px;
 	position: relative;
 }
 
-#u425-4
+#u425-47
 {
 	z-index: 33;
 	width: 440px;
-	min-height: 377px;
+	min-height: 457px;
 	background-color: #FFFFFF;
 	background-color: rgba(255, 255, 255, 0.8);
 	position: relative;
@@ -304,21 +305,69 @@
 
 #u868
 {
-	z-index: 37;
-	width: 180px;
+	z-index: 80;
+	width: 153px;
 	height: 40px;
 	position: relative;
 	margin-right: -10000px;
-	left: 240px;
+	margin-top: 61px;
+	left: 268px;
 	background: transparent url("../images/follow.png") no-repeat left top;
 	background-size: contain !important;
 }
 
 #u868:hover
 {
-	margin: 0px -10000px 0px 0px;
+	margin: 61px -10000px 0px 0px;
 	background: transparent url("../images/follow2.png") no-repeat left top;
 	background-size: contain !important;
+}
+
+#u1589-58
+{
+	z-index: 81;
+	width: 440px;
+	min-height: 457px;
+	background-color: #FFFFFF;
+	background-color: rgba(255, 255, 255, 0.8);
+	position: relative;
+	margin-right: -10000px;
+	left: 479px;
+	-pie-background: rgba(255, 255, 255, 0.8);
+}
+
+#u425,#u425-3,#u1589-3,#u1589-19
+{
+	font-size: 18px;
+	line-height: 22px;
+	padding-right: 10px;
+	padding-left: 10px;
+	font-weight: bold;
+}
+
+#u1589-39
+{
+	padding-right: 10px;
+	padding-left: 10px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u1589-37
+{
+	font-size: 18px;
+	font-weight: bold;
+	line-height: 22px;
+}
+
+#u1589-38
+{
+	line-height: 17px;
+}
+
+#u425-4,#u425-6,#u425-8,#u425-9,#u425-11,#u425-12,#u425-17,#u425-19,#u425-20,#u425-25,#u425-27,#u425-28,#u425-33,#u425-35,#u425-36,#u425-41,#u425-43,#u425-44,#u425-45,#u1589,#u1589-4,#u1589-6,#u1589-7,#u1589-12,#u1589-16,#u1589-17,#u1589-20,#u1589-25,#u1589-30,#u1589-35,#u1589-36,#u1589-40,#u1589-45,#u1589-50,#u1589-55
+{
+	padding-right: 10px;
+	padding-left: 10px;
 }
 
 body
