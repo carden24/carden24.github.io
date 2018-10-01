@@ -1,2 +1,2 @@
-**Erick Cardenas Personal Webpage**
+**Erick Cardenas personal website**
 
